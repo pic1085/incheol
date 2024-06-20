@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&exclude_repo=dkssud8150.github.io&layout=compact&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&exclude_repo=pic1085.github.io&layout=compact&theme=nightowl" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" width="42%" />
