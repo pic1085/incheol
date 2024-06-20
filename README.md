@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=Welcome,+i'm+Incheol+Park&font=Redressed&size=50&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
-<!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
+
 
 <br />
 <br />
@@ -15,16 +15,7 @@
 
   
   <img src="https://raw.githubusercontent.com/pic1085/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-</a>
 
-<br />
-
-<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dkssud8150&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<br />
-<!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
--->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
