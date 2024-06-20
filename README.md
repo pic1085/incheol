@@ -7,16 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=Welcome,+i'm+Incheol+Park&font=Redressed&size=50&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2Fhit-counter&count_bg=%23567CBD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" align="left" /></a>
 
 <br />
 <br />
 
-<a href="https://opgc.me/#/users/pic1085" target="_blank"><img src="https://api.opgc.me/githubs/users/dkssud8150/tag/?theme=prism" />
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pic1085)](https://solved.ac/pic1085)
-<!--   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dkssud8150&theme=white) -->
-</a>
-  
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
 
