@@ -1,11 +1,11 @@
-
-# Welcome, i'm Incheol Park
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻🖱️&fontAlign=80)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome,+i'm+Incheol_Park🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+Incheol_Park🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+
 
 
 
