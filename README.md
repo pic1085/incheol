@@ -29,11 +29,7 @@
 <br />
 <br />
 
-<br />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pic1085&bg_color=1a1b27&hide_border=false&text_color=c1c1cb&custom_title=Weekly+development)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 <br />
 
  <details open>
