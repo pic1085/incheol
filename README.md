@@ -12,22 +12,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" width="42%" />
 </a>
 
-<br />
-<br />
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br />
-<br />
 
 <div align="left">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pic1085&theme=flat&column=7)](https://github.com/dkssud8150/)
 
 ---
-
-<br />
-<br />
 
 
 <br />
