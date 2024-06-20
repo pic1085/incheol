@@ -35,5 +35,5 @@
 **Languages**
 
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> python</code>
-img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <br />
