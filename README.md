@@ -22,7 +22,7 @@
 
 <div align="left">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pic1085&theme=flat&column=8)](https://github.com/dkssud8150/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pic1085&theme=flat&column=6)](https://github.com/dkssud8150/)
 
 ---
 
