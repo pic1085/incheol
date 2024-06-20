@@ -6,6 +6,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pic1085&theme=nord)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pic1085&theme=nord_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pic1085&theme=tokyonight)](https://git.io/streak-stats)
