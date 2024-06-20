@@ -17,7 +17,7 @@
 
 <div align="left">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pic1085&theme=flat&column=7)](https://github.com/dkssud8150/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pic1085&theme=flat&column=7)](https://github.com/pic1085/)
 
 ---
 
