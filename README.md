@@ -12,8 +12,8 @@
 <br />
 <br />
 
-<a href="https://opgc.me/#/users/dkssud8150" target="_blank"><img src="https://api.opgc.me/githubs/users/dkssud8150/tag/?theme=prism" />
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkssud8150)](https://solved.ac/dkssud8150)
+<a href="https://opgc.me/#/users/pic1085" target="_blank"><img src="https://api.opgc.me/githubs/users/dkssud8150/tag/?theme=prism" />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pic1085)](https://solved.ac/pic1085)
 <!--   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dkssud8150&theme=white) -->
 </a>
   
