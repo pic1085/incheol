@@ -5,6 +5,10 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome,+i'm+Incheol_Park🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+
+
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&exclude_repo=pic1085.github.io&layout=compact&theme=nightowl" />
 </a>
