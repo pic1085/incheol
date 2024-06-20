@@ -5,10 +5,10 @@
 <div align="center">
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&exclude_repo=dkssud8150.github.io&layout=compact&theme=nightowl" />
 </a>
 <a href="s">
-   <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" width="42%" />
 </a>
 
 
