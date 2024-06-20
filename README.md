@@ -4,7 +4,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=Welcome,+i'm+Incheol+Park&font=Redressed&size=50&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 
 <br />
