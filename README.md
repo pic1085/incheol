@@ -7,20 +7,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=Welcome,+i'm+Incheol+Park&font=Redressed&size=50&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
-
 <br />
 <br />
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
 
   
-  <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+  <img src="https://raw.githubusercontent.com/pic1085/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
-
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
--->
 
 <br />
 
