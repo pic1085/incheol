@@ -36,5 +36,5 @@
 
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> python</code><code><img alt="C Language" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"> C</code><code><img alt="Java" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"> java</code>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=incheol2250)](https://solved.ac/incheol2250/)
 <br />
