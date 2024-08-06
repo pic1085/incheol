@@ -9,14 +9,12 @@
 
 
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&exclude_repo=pic1085.github.io&layout=compact&theme=nightowl" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&layout=compact&theme=dracula)
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" width="42%" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브이름&layout=compact&theme=dracula)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
