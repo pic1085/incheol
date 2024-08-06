@@ -9,11 +9,19 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&layout=compact&theme=dracula)
+<div style="overflow: hidden;">
+  <div style="float: left; width: 50%;">
+    <a href="s">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&layout=compact&theme=dracula" width="100%" />
+    </a>
+  </div>
+  <div style="float: left; width: 50%;">
+    <a href="s">
+      <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" width="100%" />
+    </a>
+  </div>
+</div>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" width="42%" />
-</a>
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
