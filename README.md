@@ -12,7 +12,7 @@
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="flex: 1; text-align: center;">
     <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&layout=compact&theme=dracula" style="max-width: 35%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&layout=donut&theme=dracula" style="max-width: 35%;" />
     </a>
   </div>
   <div style="flex: 1; text-align: center;">
