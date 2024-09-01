@@ -33,9 +33,11 @@
  
 **사용 언어**
 
-<code><img alt="Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> python</code><code><img alt="C Language" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"> C</code><code><img alt="Java" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"> java</code>
-<code><img alt="JavaScript" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146314.png"> javascript</code>
-<code><img alt="React Native" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146327.png"> react native</code>
+<code><img alt="Python" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> python</code>
+<code><img alt="C" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> C</code>
+<code><img alt="Java" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> java</code>
+<code><img alt="JavaScript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> javascript</code>
+<code><img alt="React Native" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> react native</code>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=incheol2250)](https://solved.ac/incheol2250/)
 <br />
