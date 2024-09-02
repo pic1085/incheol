@@ -4,14 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+Incheol_Park🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=incheol2250)](https://solved.ac/incheol2250/)
+
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <div style="flex: 1; text-align: center;">
     <a href="s">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pic1085&layout=donut&theme=dracula" style="max-width: 100%; width: 300px;" />
-    </a>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <a href="s">
       <img src="https://github-readme-stats.vercel.app/api?username=pic1085&theme=nightowl&show_icons=true" style="max-width: 100%; width: 300px;" />
     </a>
   </div>
@@ -20,7 +18,8 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="left">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=incheol2250)](https://solved.ac/incheol2250/)
+
+  
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=pic1085&theme=flat&column=8)](https://github.com/pic1085/)
 
