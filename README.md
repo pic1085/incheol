@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+Incheol_Park🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69C1E9&lines=Welcome,+i'm+Incheol_Park&font=Redressed&size=40)](https://git.io/typing-svg)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=incheol2250)](https://solved.ac/incheol2250/)
 
